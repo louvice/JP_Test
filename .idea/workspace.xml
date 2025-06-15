@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb2fa20f-5a37-4190-bc5e-ec3e7f21b96c" name="Changes" comment="修改pom commit">
+    <list default="true" id="fb2fa20f-5a37-4190-bc5e-ec3e7f21b96c" name="Changes" comment="修改deploy文件 commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,8 +46,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.TliasWebManagerApplication.executor": "Run",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/18327/Desktop",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -70,6 +72,13 @@
       </method>
     </configuration>
   </component>
+  <component name="SQLScriptSettings">
+    <option name="matrix">
+      <map>
+        <entry key="MYSQL.CreateComplete" value="CreateIfNotExists=1" />
+      </map>
+    </option>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -90,7 +99,7 @@
       <workItem from="1748480526804" duration="7317000" />
       <workItem from="1749078788175" duration="3183000" />
       <workItem from="1749465737203" duration="2722000" />
-      <workItem from="1749962283112" duration="4942000" />
+      <workItem from="1749962283112" duration="6213000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -124,7 +133,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749965942779</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="修改deploy文件 commit">
+      <option name="closed" value="true" />
+      <created>1749967982695</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1749967982695</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,6 +181,7 @@
     <MESSAGE value="test commit" />
     <MESSAGE value="docker+deploy.yml commit" />
     <MESSAGE value="修改pom commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改pom commit" />
+    <MESSAGE value="修改deploy文件 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改deploy文件 commit" />
   </component>
 </project>
