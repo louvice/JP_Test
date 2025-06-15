@@ -40,6 +40,7 @@ jobs:
             cd /home/${{ secrets.SSH_USER }}/app
             sudo docker stop myapp || true
             sudo docker rm myapp || true
+            sudo docker rmi myapp-image || true
             sudo docker build -t myapp-image .
-            sudo docker run --name myapp --network mynet -p 8080:8080 myapp-image
+            sudo docker run -d --name myapp --network mynet -p 8080:8080 myapp-image
 
