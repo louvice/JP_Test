@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb2fa20f-5a37-4190-bc5e-ec3e7f21b96c" name="Changes" comment="docker+deploy.yml commit" />
+    <list default="true" id="fb2fa20f-5a37-4190-bc5e-ec3e7f21b96c" name="Changes" comment="修改pom commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,7 +90,7 @@
       <workItem from="1748480526804" duration="7317000" />
       <workItem from="1749078788175" duration="3183000" />
       <workItem from="1749465737203" duration="2722000" />
-      <workItem from="1749962283112" duration="3249000" />
+      <workItem from="1749962283112" duration="4942000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -114,7 +116,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749965508481</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="修改pom commit">
+      <option name="closed" value="true" />
+      <created>1749965942779</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1749965942779</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,6 +163,7 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="test commit" />
     <MESSAGE value="docker+deploy.yml commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="docker+deploy.yml commit" />
+    <MESSAGE value="修改pom commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改pom commit" />
   </component>
 </project>
